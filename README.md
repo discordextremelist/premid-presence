@@ -2,7 +2,7 @@
 The official Discord Extreme List PreMiD presence!
 
 ## Development
-This contains missing files... if you wish to work on this presence please submit a PR at the official [PreMiD Presences Repository](https://github.com/PreMiD/Presences)
+This contains missing files... if you wish to work on this presence please clone & submit a PR at the official [PreMiD Presences Repository](https://github.com/PreMiD/Presences)
 
 * [Information on Developing a PreMiD Presence](https://docs.premid.app/en/dev/presence)
 
